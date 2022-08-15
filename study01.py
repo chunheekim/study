@@ -7,4 +7,5 @@ else:
 	print("작다")
 for in i range(10):
 	if a%i==0:
-		print(i)	
+		print(i)
+print(a+b)		
